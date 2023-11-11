@@ -1,6 +1,7 @@
-# Hi there 👋 I'm jleenaife! I am a 4th year student in Computer Engineering 💻 at PUP Manila, Philippines.
+# Hi there 👋 I'm jleenaife! I am a 4th year student in Computer Engineering 💻 at PUP Manila
 ## 🌱 I'm currently learning about System Development and I am also a UI/UX Cadet at GDSC-PUP ✨
 ### 😄 Pronouns: she/her
+#### ⚡ Fun fact: I like listening to Kpop. My ult groups are mostly JYPE groups especially twice and skz
 
 
 <!--
